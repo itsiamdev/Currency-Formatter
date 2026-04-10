@@ -4,7 +4,7 @@ A simple and intuitive web application for formatting currencies with precision 
 
 Easily convert and display currency values in various formats, making financial data more readable and professional. Perfect for developers, accountants, and anyone working with monetary values. 📊💼
 
-🔗 **Live Demo**: [https://iam269.github.io/Currency-Formatter/](https://iam269.github.io/Currency-Formatter/)
+🔗 **Live Demo**: [https://itsiamdev.github.io/Currency-Formatter/](https://itsiamdev.github.io/Currency-Formatter/)
 
 ## Features 🌟
 - **Multi-Currency Formatting**: Instantly format amounts into Indian Rupees (INR), US Dollars (USD), and Japanese Yen (JPY) 🇮🇳🇺🇸🇯🇵
